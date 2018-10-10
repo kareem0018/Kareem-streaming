@@ -11,7 +11,7 @@ client.on('ready', () => {
 
 
 
-	client.user.setGame('6shrna al w8t ):', 'https://twitch.tv/Kareeeeeem');
+	client.user.setGame('Drash ):', 'https://twitch.tv/Kareeeeeem');
 
 
 
