@@ -4,5 +4,19 @@ const client = new Discord.Client();
 client.login(process.env.BOT_TOKEN);
 
 client.on('ready', () => {
-client.user.setGame(Raaa7 al zeeeeeeen <\3,'https://www.twitch.tv/tarikrs');                                                                                                                                                                                                                                                                                                                                                                                                                             client.user.setGame(,'https://www.twitch.tv/v5bz%27);
-};
+
+
+
+	
+
+
+
+	client.user.setGame('raa7 al zeeeeeeeeen <\3', 'https://twitch.tv/Kareeeeeem');
+
+
+
+	
+
+
+
+});
