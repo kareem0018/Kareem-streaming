@@ -21,4 +21,4 @@ https://discord.gg/bcpjsSC
 
 }).catch(console.error)
 })
-client.login(process.env.BOT_TOKEN);
+A7MD.login('MzczMTc3MTc0MDM3MTAyNjAz.DrTL6g.QsYozZB_BAHCH2Bnjp4kalA6spQ');
