@@ -3,8 +3,6 @@ const A7MD = new Discord.Client();
 
 console.log("BOT ONLINE");
 
-client.login(process.env.BOT_TOKEN);
-
 
 A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
@@ -22,3 +20,4 @@ https://discord.gg/bcpjsSC
 
 }).catch(console.error)
 })
+client.login(process.env.BOT_TOKEN);
