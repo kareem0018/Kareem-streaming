@@ -7,7 +7,7 @@ console.log("BOT ONLINE");
 A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(
-***Konex shop
+Konex shop
 __متجر لبيع__ :
 نايترو
 حسابات ماين كرافت
@@ -15,7 +15,7 @@ __متجر لبيع__ :
 حسابات سبوتي فاي 
 تاقات مميزة
 تخفيضات ليومين لحق نفسك 
-الرابط ***
+الرابط 
 https://discord.gg/bcpjsSC
 
 }).catch(console.error)
