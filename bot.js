@@ -7,7 +7,7 @@ console.log("BOT ONLINE");
 A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(`***Konex shop***
-```متجر لبيع :```
+متجر لبيع :
 ***نايترو***
 ***حسابات ماين كرافت***
 ***حسابات فورت نايت***
