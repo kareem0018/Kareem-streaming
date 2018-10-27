@@ -38,4 +38,4 @@ https://discord.gg/bcpjsSC
 
 }).catch(console.error)
 })
-client.login('MzczMTc3MTc0MDM3MTAyNjAz.DrTL6g.QsYozZB_BAHCH2Bnjp4kalA6spQ');
+client.login('NTA1NzgzNzI5MDk3Mjc3NDcy.DrY0WA.vcgo4-pu5hGxo-QCjj1iOAF27rw');
