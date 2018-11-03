@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-console.log(`Logged in as ${client.user.discriminator}#${client.user.username}`)
+console.log(`Logged in as ${client.user.username}#${client.user.discriminator}`)
 
 
  var prefix = "+";
