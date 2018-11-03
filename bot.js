@@ -30,7 +30,7 @@ client.on('ready', () => {
 
 	
 
-        client.user.setGame('hi',`http://www.youtube.com/gg`);	
+        client.user.setGame('hiiiiiiiiiiii',`http://www.youtube.com/gg`);	
 
 	
 
