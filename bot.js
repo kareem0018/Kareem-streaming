@@ -13,7 +13,7 @@ console.log("BOT ONLINE");
         }
         
        
-      });
+      
 
 client.on('ready', () => {
 
