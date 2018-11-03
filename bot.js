@@ -29,7 +29,7 @@ message.channel.send(args.join("  "))
 
 
 
-client.login('MzYxMjE3NjU4MTkwMDM2OTk5.Dr8UDg.fjkMFYs23Lk_ETeapVqnW1gpMYs');
+client.login('NDc3NTY3NzczNzQ5MjgwNzY4.DlAt1g.24xXCf783eQsJc9d4-WD15lG_W4');
 
 
 
