@@ -5,6 +5,15 @@ console.log("BOT ONLINE");
 
       
       
+  const adminprefix = "^";
+    client.on('message', message => {
+if(!message.author.id === '474573718967025665') return;
+        if (!message.content.startsWith(adminprefix)) return;
+      
+        let command = message.content.split(" ")[0];
+        command = command.slice(adminprefix.length);
+      
+      
       let args = message.content.split(" ").slice(1);
       let x = args.join(" ")
         if(message.content.startsWith(adminprefix + 'say')) {
@@ -12,6 +21,8 @@ console.log("BOT ONLINE");
                 message.delete(999)
         }
         
+       
+      });
        
       
 
