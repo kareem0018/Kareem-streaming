@@ -1,9 +1,9 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-console.log("BOT ONLINE");
+console.log(`Logged in as ${client.user.discriminator}#${client.user.username}`)
 
-      
+
  var prefix = "+";
 
 client.on('message', message => {
@@ -26,19 +26,10 @@ message.channel.send(args.join("  "))
 
 });
 
-client.on('ready', () => {
-
-	
-
-        client.user.setGame('hiiiiiiiiiiii',`http://www.youtube.com/gg`);	
-
-	
-
-});
 
 
 
-client.login('NDY2MzE4Mzc1NTAxNDMwNzg1.Dr5iEA.WznhsfPzlZn3ULW4fSd3CmzP8pk');
+client.login('MzYxMjE3NjU4MTkwMDM2OTk5.Dr8UDg.fjkMFYs23Lk_ETeapVqnW1gpMYs');
 
 
 
